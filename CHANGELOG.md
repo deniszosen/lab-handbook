@@ -2,6 +2,13 @@
 
 Policy changes are listed here with the date they took effect. Typo and link fixes are not listed.
 
+## 0.2.1, 11 November 2026
+
+AI use.
+
+- Templates: added the AI-use log.
+- Chapter 7: points to the AI-use log and to the lab's resources page for the current rules.
+
 ## 0.2.0, 5 October 2026
 
 Tailored to the lab's methods and its institutional position.

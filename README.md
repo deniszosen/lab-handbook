@@ -49,6 +49,7 @@ Forms the lab uses with this handbook are in [templates](templates):
 - [Data management plan](templates/data-management-plan.md)
 - [Onboarding checklist](templates/onboarding-checklist.md)
 - [Offboarding checklist](templates/offboarding-checklist.md)
+- [AI-use log](templates/ai-use-log.md)
 
 ## Where to start
 
